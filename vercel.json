@@ -32,7 +32,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://www.wegalabs.com/december",
+      "destination": "https://www.wegalabs.com/",
       "permanent": true
     }
   ]
