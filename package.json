@@ -1,12 +1,12 @@
 {
   "name": "december-teaser",
   "version": "1.0.0",
-  "description": "December - The First Autonomous AI Agent System",
+  "description": "December — an open-source experiment in consciousness and human life",
   "main": "index.html",
   "scripts": {
-    "dev": "npx http-server . -p 3000",
+    "dev": "npx http-server . -p 3000 -c-1",
     "build": "echo 'Static site - no build required'",
-    "start": "npx http-server . -p 3000"
+    "start": "npx http-server . -p 3000 -c-1"
   },
   "keywords": [
     "ai",
