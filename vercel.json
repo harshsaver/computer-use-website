@@ -31,8 +31,8 @@
   ],
   "redirects": [
     {
-      "source": "/december-teaser.html",
-      "destination": "/",
+      "source": "/(.*)",
+      "destination": "https://www.wegalabs.com/december",
       "permanent": true
     }
   ]
