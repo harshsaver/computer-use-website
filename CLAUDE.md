@@ -1,20 +1,20 @@
 # December landing page
 
-This repository is the static landing page for December, a Wega Labs open
-research project. It deploys to `december.dev` through the Vercel project
+This repository is the static landing page for December, a long-term Wega Labs
+dream being built in the open. It deploys to `december.dev` through the Vercel project
 `computer-use-website`.
 
 ## Product language
 
 - Explain the project in ordinary language before technical language.
-- Lead with the question of personal continuity: "What makes you, you?"
+- Lead with the felt experience: leave for two days and return to lives that continued without you.
+- Present December as a dream and invitation before presenting it as an experiment.
 - Describe consciousness as an open question.
 - Describe immortality as a distant hope, never a present capability or promise.
 - State clearly that the world is still in its design and audit phase.
 - Do not claim that artificial residents are conscious.
-- Keep Wega Labs as the institution and December as the research program.
-- Participant requests must require consent, avoid private data, and explain
-  that a research persona is a model rather than a conscious copy.
+- Keep Wega Labs clearly identified as the company and AI lab; present December as the lab's living-world dream.
+- Do not solicit human participants, nominations, biographies, or private life data.
 
 ## Implementation
 

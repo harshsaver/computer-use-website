@@ -1,7 +1,7 @@
 {
   "name": "december-teaser",
   "version": "1.0.0",
-  "description": "December — an open-source experiment in consciousness and human life",
+  "description": "December — a little artificial world that keeps living",
   "main": "index.html",
   "scripts": {
     "dev": "npx http-server . -p 3000 -c-1",
@@ -13,7 +13,7 @@
     "autonomous",
     "december",
     "agent",
-    "consciousness"
+    "living world"
   ],
   "author": "December Team",
   "license": "MIT",
