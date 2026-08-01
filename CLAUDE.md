@@ -1,7 +1,8 @@
 # December landing page
 
-This repository is the static landing page deployed to `december.dev` through
-the Vercel project `computer-use-website`.
+This repository is the static landing page for December, a Wega Labs open
+research project. It deploys to `december.dev` through the Vercel project
+`computer-use-website`.
 
 ## Product language
 
@@ -11,6 +12,9 @@ the Vercel project `computer-use-website`.
 - Describe immortality as a distant hope, never a present capability or promise.
 - State clearly that the world is still in its design and audit phase.
 - Do not claim that artificial residents are conscious.
+- Keep Wega Labs as the institution and December as the research program.
+- Participant requests must require consent, avoid private data, and explain
+  that a research persona is a model rather than a conscious copy.
 
 ## Implementation
 

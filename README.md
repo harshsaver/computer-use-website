@@ -2,8 +2,9 @@
 
 The public landing page for [december.dev](https://december.dev).
 
-December is an open-source experiment to understand consciousness, human life,
-and what would need to persist for a person to continue beyond the body.
+December is a Wega Labs open research project studying consciousness, human
+identity, and what would need to persist for a person to continue beyond the
+body.
 
 ## Local development
 
@@ -15,6 +16,10 @@ npm run dev
 The site is deliberately static: `index.html`, `styles.css`, `script.js`, and
 project-owned assets. Pushing `main` deploys the site through the existing
 Vercel project.
+
+The participant-request interface stores no data. After consent and scope
+acknowledgements, it opens a prefilled public GitHub issue for the user to review
+and submit.
 
 ## Status
 
